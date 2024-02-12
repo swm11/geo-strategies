@@ -1,2 +1,2 @@
 # geo-strategies
-Archive of Geo Strategies Website
+Trial Geo Strategies Website
